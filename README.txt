@@ -1,6 +1,8 @@
-Credits:
+Html Pages curated and developed by #GopinathMahankali 
 
-	Demo Images:
+Also few are having credits listed below
+Credits:
+        Demo Images:
 		Unsplash (unsplash.com)
 
 	Icons:
